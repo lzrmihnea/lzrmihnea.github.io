@@ -1,0 +1,144 @@
+---
+layout: post
+title:  "SoCraTes 2015"
+date:   2017-02-23 08:39:21 +0200
+categories: tech conferences
+---
+This article first appeared in TodaySoftwareMagazine, a tech-publication from Cluj-Napoca, Romania (in [English][tsm-article-socrates-2015-en] and in [Romanian][tsm-article-socrates-2015-ro]).
+
+
+#  __Unconferences__
+
+![socrates-img01-logo]
+
+_“The most interesting parts of a conference are the coffee breaks”_
+
+That is a key idea on which the concept of “unconference” was based upon. That the networking and information transfer, the best part of a conference, happens in a more efficient and enjoyable manner between sessions.
+
+Also known as an open space conference, an unconference steers away from the classical concept of fixed conferences with predetermined subjects of discussion.
+-	Participants propose subjects of their own. These can be topics on which they have knowledge and want to share, or are seeking knowledge from other participants.
+-	Non-profit, low-cost. Very much resembles a retreat with highly-collaborative interactions.
+-	Whatever happens is the only thing that could have happened.
+
+![socrates-img02-board]
+
+# __SoCraTes 2015 Germany__
+
+After a few years, SoCraTes has expanded as an event, and now takes place in multiple places across the world (United Kingdom, Belgium, Canary Islands, Switzerland). The Germany edition of SoCraTes took place in [Soltau][google-maps-soltau].
+
+The conference started on Thursday and ended on Sunday.
+
+__Thursday__, the conference began in the evening. Participants attended a World Café, a meeting where they got to know each other better.
+
+__Friday and Saturday__ were the Open Spaces, the main attraction of the conference.
+
+On __Sunday__, the participants were free to make workshops of their own, where they could apply the knowledge they had accumulated and/or work on different projects with people they had gotten to know at the event.
+
+## The open space
+
+The main tool of the open space: the board! On the left side of the board were the time slots available for the session (base time of 1 hour each), and on the upper side, where the meeting rooms available for the sessions.
+
+![socrates-img03-board]
+
+After the World Café event from Thursday, the participants had gotten to know each other and were more comfortable with sharing their ideas. So, they were invited to line up and present the topics they were interested in.
+
+The line of people waiting to add topics stretched on both sides of the board. The board was filled with topics, which stretched out from 10:30 up until 18:00 on both days! Some topics were later expanded and discussed at dinner, after dinner, at the bar, or repeated the next day.
+
+An average of 10 participants attended each session, creating the atmosphere of work colleagues discussing random topics after work, over beers. Most topics were discussed without any presentations prepared before, so the questions were welcomed at any time clarification was necessary. Because of the small number of people, the questions could flow at a comfortable pace for all that were present.
+
+![socrates-img04-board-filled]
+
+Some sessions started discussions that grew into other sessions. In these cases, they were either continued outdoors, in the hotel court, they found another timeslot later, or they exchanged contact info or blogs.
+Inevitably, there were situations when a participant would leave during a session, which was perfectly ok. Participants were free to attend more than one session in a given timeslot, and get basic information or references from each.
+
+![socrates-img05-session]
+
+A selection of sessions:
+
+### 1)	Web front-end
+-	Bootstrap library was presented. This library permits an easier design of the front-end of web pages by adding predefined CSS templates to already existing div elements in web pages.
+-	The concept of grids was introduced, which is a way in which responsive web UI templates structure divs on grids, so that, when the page becomes smaller, for smaller screens, the divs are reordered on the page in the way intended by the programmer, for optimal user experience.
+
+### 2)	Personal knowledge management and productivity
+-	Blog all about it. If you have an idea or article you want to share or remember, a blog can be an excellent centralizing spot.
+-	“Getting things done” – David Allen
+-	Apps with email integration, to remember and remind about tasks. Examples: Todoist, Evernote
+-	Pomodoro technique, allocating a modest fixed timeslot for a well defined task
+-	Personal Kanban boards
+-	Mind mapping tools
+-	Podcasts. Examples: “Turing incomplete”, “.NET rocks”
+-	Gamification, via games that reward players for complete tasks. Example: Habit RPG
+
+### 3)	Blender 3D modelling introduction
+Where an example of a 3D model was created during the session with the use of the Blender tool. Complex stuff.
+
+### 4)	Remote work
+Where a number of people shared their thoughts on this process and compared notes. Some of the people worked remotely, some had colleagues who worked remotely, and some managed over people who worked remotely. Each brought some original ideas to the table.
+  -	Tips:
+    -	Communication is improved via webcams
+  	-	Communication should be often, either via email or wiki pages
+  	-	Information should be centralized on a wiki
+-	Apps
+  	-	Skype for voice
+  	-	Slack for chat
+  	-	VNC for screen sharing
+  	-	Google Docs
+-	Cons
+  	-	Working alone
+  	-	Distraction from non-working environment
+  	-	Hard to move from the place
+-	Pros
+  	-	Time independence
+  	-	Time for personal stuff
+  	-	Office distractions absent
+  	-	Faster switching back to private life
+
+### 5)	Remote pair programming
+Where some tools were presented, with the purpose of improving this process
+
+-	Saros – Eclipse plugin, in which two users write on the same code. Only one resource in the IDE is shared via an XMPP protocol, so the users are actually sharing text with this plugin.
+-	Tmate – Instant cross-platform terminal sharing
+-	Screen Hero
+	o	Cross platform screen sharing
+	o	HD quality
+	o	Voice chat
+	o	Multiple mouse cursors
+
+### 6)	Code is music
+-	In which examples of code were shown that create music, by setting the frequency, amplitude and tone of sound waves and overlapping multiple music beats to create a complex music piece.
+-	The base programming language used is SuperCollider, and it has libraries for other languages such as Clojure (Overtone library) or JavaScript (Gibber)
+
+### 7)	Monorepos
+-	How Facebook and Google distributed their source code repositories
+-	Using a single monolithic repository in which all connected projects are stored
+
+### 8)	Open salaries
+-	How one startup in Berlin experimented in having each employees’ salary disclosed to all other employees
+-	When new people join the company, their salary is decided based on a 2D chart depicting their experience on one axes and their expected responsibilities on the other axes. All employees can participate when deciding the new employees’ salary.
+-	At first, most were paid less than what they should have earned, based on the chart
+-	Presently, most are paid more
+-	Excel sheet with what they should get and what they actually get
+-	Factors: experience, role, family, responsibility, distance (location)
+
+### 9)	Concurrency, robustness & Elixir
+-	Elixir is derived from Erlang
+-	Basic physics don’t permit much more MHz in processors, so basic programming paradigms should be changed
+-	Functional, robust, lightweight VM, massively concurrent, asynchronous
+-	An ecosystem which allows design patterns to be added to build robust systems
+-	Improvements in Elixir:
+	o	Syntax improved over Erlang, inspired by Ruby
+	o	Full Erlang compatibility
+	o	Aims for enhanced productivity
+-	Elixir processes are extremely lightweight
+-	Code can be changed at runtime (hot code swapping)
+
+
+[tsm-article-socrates-2015-en]: https://www.todaysoftmag.com/article/1700/socrates-2015-unconference
+[tsm-article-socrates-2015-ro]: https://www.todaysoftmag.ro/article/1697/socrates-2015-unconference
+[google-maps-soltau]: https://www.google.ro/maps/place/29614+Soltau,+Germany/@52.9607721,9.8449588,9z/data=!4m5!3m4!1s0x47b1b342b29f4ba1:0x4263df27bd656e0!8m2!3d52.9846914!4d9.842125?hl=en
+
+[socrates-img01-logo]: http://i.imgur.com/qnEiGL9.png
+[socrates-img02-board]: http://i.imgur.com/7imhtUW.jpg
+[socrates-img03-board]: http://i.imgur.com/2PJvGT4.jpg
+[socrates-img04-board-filled]: http://i.imgur.com/dshtmgn.jpg
+[socrates-img05-session]: http://i.imgur.com/5YTZAfl.jpg
