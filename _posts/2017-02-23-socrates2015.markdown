@@ -3,6 +3,7 @@ layout: post
 title:  "SoCraTes 2015"
 date:   2017-02-23 08:39:21 +0200
 categories: tech conferences
+permalink: /a/socrates-2015
 ---
 This article first appeared in TodaySoftwareMagazine, a tech-publication from Cluj-Napoca, Romania (in [English][tsm-article-socrates-2015-en] and in [Romanian][tsm-article-socrates-2015-ro]).
 
