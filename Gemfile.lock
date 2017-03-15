@@ -1,5 +1,5 @@
 PATH
-  remote: space
+  remote: _template/space
   specs:
     space (0.1.0)
       jekyll (~> 3.4)
