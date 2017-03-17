@@ -1,9 +1,3 @@
-PATH
-  remote: _template/space
-  specs:
-    space (0.1.0)
-      jekyll (~> 3.4)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -58,7 +52,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.1)
   jekyll-feed (~> 0.6)
-  space!
   tzinfo-data
 
 RUBY VERSION
