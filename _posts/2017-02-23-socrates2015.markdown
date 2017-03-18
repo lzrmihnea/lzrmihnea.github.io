@@ -74,24 +74,27 @@ Where an example of a 3D model was created during the session with the use of th
 
 ### 4)	Remote work
 Where a number of people shared their thoughts on this process and compared notes. Some of the people worked remotely, some had colleagues who worked remotely, and some managed over people who worked remotely. Each brought some original ideas to the table.
-  -	Tips:
-    -	Communication is improved via webcams
-  	-	Communication should be often, either via email or wiki pages
-  	-	Information should be centralized on a wiki
--	Apps
-  	-	Skype for voice
-  	-	Slack for chat
-  	-	VNC for screen sharing
-  	-	Google Docs
--	Cons
-  	-	Working alone
-  	-	Distraction from non-working environment
-  	-	Hard to move from the place
--	Pros
-  	-	Time independence
-  	-	Time for personal stuff
-  	-	Office distractions absent
-  	-	Faster switching back to private life
+#### - Tips
+ -	Communication is improved via webcams
+ -	Communication should be often, either via email or wiki pages
+ -	Information should be centralized on a wiki
+
+#### -	Apps
+ -	Skype for voice
+ -	Slack for chat
+ -	VNC for screen sharing
+ -	Google Docs
+
+#### -	Cons
+ -	Working alone
+ -	Distraction from non-working environment
+ -	Hard to move from the place
+
+#### -	Pros
+ -	Time independence
+ -	Time for personal stuff
+ -	Office distractions absent
+ -	Faster switching back to private life
 
 ### 5)	Remote pair programming
 Where some tools were presented, with the purpose of improving this process
