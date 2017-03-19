@@ -218,9 +218,25 @@
     font-size: 36px;
   }
 }
+.post-content img {
+    float:left;
+    max-width: 92vw;
+    max-height: 92vh;
+    margin-top: 2em;
+    margin-bottom: 3em;
+
+    margin-left: 50%;
+    -webkit-transform: translateX(-52%);
+    -moz-transform: translateX(-52%);
+    -ms-transform: translateX(-52%);
+    -o-transform: translateX(-52%);
+    transform: translateX(-52%);
+}
+
 
 .post-content {
   margin-bottom: $spacing-unit;
+
 
   h2 {
     font-size: 32px;
