@@ -4,7 +4,12 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <p><a href="{{ "/feed.xml" | relative_url }}">rss subscription</a></p>
+
+        <p>
+          {% include icon-home.html %}
+          <a href="{{ "/feed.xml" | relative_url }}">rss subscription</a>
+        </p>
+
         <ul class="contact-list">
           <li>
             {% if site.author %}

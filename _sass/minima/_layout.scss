@@ -189,7 +189,20 @@
   font-size: 24px;
 }
 
+.post-container-outer {
+  display: flex;
+  align-items: center;
+  max-width: 10vw;
+}
 
+.post-container-outer img {
+  height: 10em;
+  width: auto;
+}
+
+.icon-home {
+  height: 2em;
+}
 
 /**
  * Posts
