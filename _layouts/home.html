@@ -8,13 +8,28 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <li>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+      <div class="post-container-outer">
+
+        <div class="post-container-inner">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+        </div>
+
+        {% if post.preview-img %}
+          <a href="{{ post.url | relative_url }}"><img src={{post.preview-img}}/></a>
+        {% endif %}
+
+        {% if post.preview-video-youtube %}
+          <iframe src="{{post.preview-video-youtube}}" allowfullscreen></iframe>
+        {% endif %}
+
+      </div>
+
+    </li>
     {% endfor %}
   </ul>
 
