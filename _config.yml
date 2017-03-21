@@ -22,6 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  lzrmihnea
 
+layout: default
+comments: true
+
 # Build settings
 markdown: kramdown
 gems:
@@ -38,3 +41,7 @@ webrick:
 
 # Customization
 permalink: /a/:title
+
+site:
+  disqus:
+    shortname: lzrmihnea-github-io
