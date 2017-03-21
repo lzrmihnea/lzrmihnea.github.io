@@ -12,7 +12,12 @@ layout: default
     {{ content }}
   </div>
 
+  <br/>
+  <div class="end-of-post-home-icon">{% include icon-home.html %}</div>
+  <br/>
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
+
 </article>
