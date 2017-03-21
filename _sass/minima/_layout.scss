@@ -193,10 +193,16 @@
 .post-container-outer {
   display: flex;
   align-items: center;
-  max-width: 10vw;
 }
 
 .post-container-outer img {
+  margin-left: 2em;
+  height: 10em;
+  width: auto;
+}
+
+.post-container-outer iframe {
+  margin-left: 2em;
   height: 10em;
   width: auto;
 }

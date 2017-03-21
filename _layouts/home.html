@@ -20,8 +20,13 @@ layout: default
         </div>
 
         {% if post.preview-img %}
-          <img src={{post.preview-img}}/>
+          <a href="{{ post.url | relative_url }}"><img src={{post.preview-img}}/></a>
         {% endif %}
+
+        {% if post.preview-video-youtube %}
+          <iframe src="{{post.preview-video-youtube}}" allowfullscreen></iframe>
+        {% endif %}
+
       </div>
 
     </li>
