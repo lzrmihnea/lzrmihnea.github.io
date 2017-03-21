@@ -42,6 +42,5 @@ webrick:
 # Customization
 permalink: /a/:title
 
-site:
-  disqus:
-    shortname: lzrmihnea-github-io
+disqus:
+  shortname: lzrmihnea-github-io
