@@ -11,8 +11,9 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include enforce-ssl.html %}
   {% include google-analytics.html %}
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  <!-- TODO Google Analytics -->
   {% endif %}
 </head>
