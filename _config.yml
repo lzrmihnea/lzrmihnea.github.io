@@ -18,6 +18,7 @@ title: croc.space
 description: The life and times of a modern-age crocodile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://croc.space/" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: sunlightlabs.github.io
 # twitter_username: jekyllrb
 # github_username:  lzrmihnea
 
