@@ -33,7 +33,7 @@ com.fasterxml.jackson.core.JsonParseException: Unexpected character ('-' (code 6
 
 ## Short answer solution
 
-Replacing the first occurence of the extra added string with a method such as the following should fix this issue:
+Replacing the first occurrence of the extra added string with a method such as the following should fix this issue:
 
 {% highlight java %}
   public String cleanUpJsonBOM(String json) {
