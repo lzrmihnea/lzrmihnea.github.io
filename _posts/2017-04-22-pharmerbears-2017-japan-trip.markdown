@@ -3,7 +3,7 @@
 layout: post
 title:  "/u/parmerbear's 2017 trip to Japan caught in photography"
 date:   2017-04-22 8:00:21 +0200
-categories: travel
+categories: travel, photography
 preview-img: http://i.imgur.com/IYGwKrK.jpg
 
 ---
