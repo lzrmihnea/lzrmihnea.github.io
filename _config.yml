@@ -21,6 +21,8 @@ url: "https://croc.space/" # the base hostname & protocol for your site, e.g. ht
 enforce_ssl: croc.space
 # twitter_username: jekyllrb
 # github_username:  lzrmihnea
+github_username:  lzrmihnea
+facebook_page: croc.space
 
 layout: default
 comments: true
