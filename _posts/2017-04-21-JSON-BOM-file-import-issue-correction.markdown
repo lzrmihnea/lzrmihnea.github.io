@@ -57,9 +57,9 @@ We will then get the following string:
 {% endhighlight %}
 
 ***There's our culprit.*** Without replacing this bytecode, the **"\ufeff"** characters would not be visible in debug mode, only within the stacktrace. It is only after replacing these characters that we can detect where the extra BOM was added.
-The root of the problem lies in added **[byte order marks][wiki-byte-order-marks]** at the beginning of text streams, which are used to signal needed properties to the text stream consumer.
+The root of the problem lies in added **[byte order marks][wiki-byte-order-marks]{:target="_blank"}** at the beginning of text streams, which are used to signal needed properties to the text stream consumer.
 
-Fortunately, **[Mark S. Kolich][maro-koli-ch-xml-parse-exception]** detected this problem with .XML files, which provided a clue towards solving the issue in this post.
+Fortunately, **[Mark S. Kolich][maro-koli-ch-xml-parse-exception]{:target="_blank"}** detected this problem with .XML files, which provided a clue towards solving the issue in this post.
 
 
 [wiki-byte-order-marks]: https://en.wikipedia.org/wiki/Byte_order_mark

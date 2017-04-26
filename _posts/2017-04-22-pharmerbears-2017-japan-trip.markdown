@@ -8,7 +8,7 @@ preview-img: http://i.imgur.com/IYGwKrK.jpg
 
 ---
 
-**[/u/pharmerbear][redditor-pharmerbear]** is a redditor who in 2017 travelled to Japan and shared some of his photos from the trip on **[/r/travel][original-reddit-post]**.
+**[/u/pharmerbear][redditor-pharmerbear]{:target="_blank"}** is a redditor who in 2017 travelled to Japan and shared some of his photos from the trip on **[/r/travel][original-reddit-post]{:target="_blank"}**.
 
 ![girl-between-orange-signs]
 ![lady-with-flowers]

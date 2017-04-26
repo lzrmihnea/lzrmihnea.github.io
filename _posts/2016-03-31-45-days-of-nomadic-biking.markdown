@@ -132,12 +132,12 @@ Vlad handed the bike over to the friend that waited for him there, who sold it. 
 
 # References
 
-#### [Vlad's facebook profile][45-days-nomadic-biking-biker-fb-link]
+#### [Vlad's facebook profile][45-days-nomadic-biking-biker-fb-link]{:target="_blank"}
 
-#### [Mihai Udvar's facebook profile][45-days-nomadic-biking-photographer-fb-link]
+#### [Mihai Udvar's facebook profile][45-days-nomadic-biking-photographer-fb-link]{:target="_blank"}
 - the photographer responsible for most of these beautiful shots
 
-#### [The Northern Theater of Satu-Mare][45-days-nomadic-biking-northern-theatre-of-satu-mare-link]
+#### [The Northern Theater of Satu-Mare][45-days-nomadic-biking-northern-theatre-of-satu-mare-link]{:target="_blank"}
 - where Vlad works
 
 ![45-days-nomadic-biking-img17-trodheim-walker]

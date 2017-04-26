@@ -5,7 +5,7 @@ date:   2016-03-15 08:39:21 +0200
 categories: tech conferences
 preview-img: http://i.imgur.com/dshtmgn.jpg
 ---
-This article first appeared in TodaySoftwareMagazine, a tech-publication from Cluj-Napoca, Romania (in [English][tsm-article-socrates-2015-en] and in [Romanian][tsm-article-socrates-2015-ro]).
+This article first appeared in TodaySoftwareMagazine, a tech-publication from Cluj-Napoca, Romania (in [English][tsm-article-socrates-2015-en]{:target="_blank"} and in [Romanian][tsm-article-socrates-2015-ro]{:target="_blank"}).
 
 
 #  __Unconferences__
@@ -25,7 +25,7 @@ Also known as an open space conference, an unconference steers away from the cla
 
 # __SoCraTes 2015 Germany__
 
-After a few years, SoCraTes has expanded as an event, and now takes place in multiple places across the world (United Kingdom, Belgium, Canary Islands, Switzerland). The Germany edition of SoCraTes took place in [Soltau][google-maps-soltau].
+After a few years, SoCraTes has expanded as an event, and now takes place in multiple places across the world (United Kingdom, Belgium, Canary Islands, Switzerland). The Germany edition of SoCraTes took place in [Soltau][google-maps-soltau]{:target="_blank"}.
 
 The conference started on Thursday and ended on Sunday.
 
