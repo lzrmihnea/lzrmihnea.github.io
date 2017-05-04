@@ -10,6 +10,10 @@ preview-img: https://angeladuckworth.com/wp-content/uploads/2015/11/book-cover1.
 
 Angela Duckworth [ **[website][angela-duckwork-website]** ][ **[wikipedia][angela-duckwork-wikipedia]** ] is a psychologist, popular science author and at the time of writing this article, a Professor of Psychology at the University of Pennsylvania.
 
+# 1. Central idea: **Perseverance, or grit > natural born talent and intelligence**. Anyone can have what they want, as long as they're willing to work for it.
+
+# 2. West Fort Worth
+
 
 > Half of the questions were about perseverance. They asked how much you agree with statements like “I have overcome setbacks to conquer an important challenge” and “I finish whatever I begin.” The other half of the questions were about passion. They asked whether your “interests change from year to year” and the extent to which you “have been obsessed with a certain idea or project for a short time but later lost interest.” What emerged was the Grit Scale—a test that, when taken honestly, measures the extent to which you approach life with grit.
 
