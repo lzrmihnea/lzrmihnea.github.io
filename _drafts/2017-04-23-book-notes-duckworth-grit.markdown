@@ -12,15 +12,17 @@ Angela Duckworth [ **[website][angela-duckwork-website]** ][ **[wikipedia][angel
 
 # 1. Central idea: **Perseverance, or grit > natural born talent and intelligence**. Anyone can have what they want, as long as they're willing to work for it.
 
-# 2. West Fort Worth
+# 2. West Point US Military Academy
+**~14.000 applicants** -> **~960 graduates**
 
+Smaller chance of being enrolled and finishing this academy than some top academies worldwide.
 
+Even though many of the applicants are athletes, physical stamina wasn't a recipe for getting through. Instead, the author applied a grit test, to see which candidates were more determined.
 > Half of the questions were about perseverance. They asked how much you agree with statements like “I have overcome setbacks to conquer an important challenge” and “I finish whatever I begin.” The other half of the questions were about passion. They asked whether your “interests change from year to year” and the extent to which you “have been obsessed with a certain idea or project for a short time but later lost interest.” What emerged was the Grit Scale—a test that, when taken honestly, measures the extent to which you approach life with grit.
-
-Here's another quote from the book
 
 > Grit predicted who stayed and who left.
 
+Then she gave them some time
 
 > But in each of these domains, when you compare people matched on these characteristics, grit still predicts success. Regardless of specific attributes and advantages that help someone succeed in each of these diverse domains of challenge, grit matters in all of them.
 
