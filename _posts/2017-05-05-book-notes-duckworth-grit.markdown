@@ -16,7 +16,7 @@ The book's premise is that in achieving success, **grit is more important than n
 
 Developed by the book author, this test was given to the following institutions:
 
-1.1. **West Point US Military Academy** across 2 years, where out of 14.000 initial applicants, only 960 graduate
+1.1. **West Point US Military Academy** across 2 years, where every year, out of 14.000 initial applicants, only 960 graduate
 
 1.2. **A vacation time-share company**
 
