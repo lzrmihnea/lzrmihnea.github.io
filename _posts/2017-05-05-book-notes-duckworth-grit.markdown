@@ -12,17 +12,17 @@ Angela Duckworth [ **[website][angela-duckwork-website]{:target="_blank"}** ][ *
 
 The book's premise is that in achieving success, **grit is more important than natural talent**.
 
-## 1. **[The grit scale][angela-duckwork-grit-scale]**
+## 1. **[The grit scale][angela-duckwork-grit-scale]{:target="_blank"}**
 
-Developed by the book author, was created and given to the following institutions:
+Developed by the book author, this test was given to the following institutions:
 
-1.1. **West Point US Military Academy**, 14.000 applicants -> 960 graduates
+1.1. **West Point US Military Academy** across 2 years, where out of 14.000 initial applicants, only 960 graduate
 
 1.2. **A vacation time-share company**
 
 1.3. **The Chicago public school system**, applied to a few thousand teenagers
 
-In all cases, those who scored higher on the Grit Test were more likely to graduate or promote.
+In all cases, after revisiting the institutions months later, those who scored higher on the Grit Test were more likely to graduate, promote, succeed.
 
 > Grit predicted who stayed and who left.
 
@@ -32,7 +32,7 @@ In all cases, those who scored higher on the Grit Test were more likely to gradu
 
 > Getting out the door by eight a.m. is a low-level goal. It only matters because of a mid-level goal: arriving at work on time. Why do you care about that? Because you want to be punctual. Why do you care about that? Because being punctual shows respect for the people with whom you work. Why is that important? Because you strive to be a good leader.
 
-# **When you think in terms of big goals, you start organizing you small daily routines around reaching those big goals.**
+# **When you think in terms of big goals, you start organizing you small daily routines around reaching those goals.**
 
 > In very gritty people, most mid-level and low-level goals are, in some way or another, related to that ultimate goal. In contrast, a lack of grit can come from having less coherent goal structures.
 
@@ -63,7 +63,7 @@ When compiling this list, some goals might be inadvertently linked to one anothe
 
 If you want to be grittier, find a gritty culture and join it. Or create it.
 
-> “when I started studying Olympians, I thought, ‘What kind of oddball gets up every day at four in the morning to go to swimming practice?’ I thought, ‘These must be extraordinary people to do that sort of thing.’ But the thing is, when you go to a place where basically everybody you know is getting up at four in the morning to go to practice, that’s just what you do. It’s no big deal. It becomes a habit.”
+> “When I started studying Olympians, I thought, ‘What kind of oddball gets up every day at four in the morning to go to swimming practice?’ I thought, ‘These must be extraordinary people to do that sort of thing.’ But the thing is, when you go to a place where basically everybody you know is getting up at four in the morning to go to practice, that’s just what you do. It’s no big deal. It becomes a habit.”
 
 
 # 2.4. Deliberate practice and setting goals
