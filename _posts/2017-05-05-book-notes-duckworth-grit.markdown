@@ -90,7 +90,7 @@ If you want to be grittier, find a gritty culture and join it. Or create it.
 
 > Eventually, if you keep practicing in the same time and place, what once took conscious thought to initiate becomes automatic.
 
-## 3. **Job < Carrer < Calling**
+## 3. **Job < Career < Calling**
 
 > Consider the parable of the bricklayers: Three bricklayers are asked: “What are you doing?” The first says, “I am laying bricks.” The second says, “I am building a church.” And the third says, “I am building the house of God.” The first bricklayer has a job. The second has a career. The third has a calling.
 
