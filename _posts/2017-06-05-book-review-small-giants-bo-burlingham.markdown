@@ -7,7 +7,7 @@ categories: books, reviews
 
 ---
 
-[Bo Burlingham][small-giants-website] offer an attractive handful of examples of small successful companies, along with their stories, culture and way of working.
+[Bo Burlingham][small-giants-website] offers an attractive handful of examples of small successful companies, along with their stories, culture and way of working.
 
 Compared to large companies, the small companies described appear in a romantic light.
 
