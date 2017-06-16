@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Java] Importing JSON from files adds extra characters, resulting in JsonParseException"
+title:  "Importing JSON from files adds extra characters, resulting in JsonParseException"
 date:   2017-04-21 04:39:00 +0200
-categories: tech
+categories: tech, java, stackoverflow
 ---
 
 

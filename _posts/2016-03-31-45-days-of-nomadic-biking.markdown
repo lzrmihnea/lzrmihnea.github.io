@@ -2,7 +2,7 @@
 layout: post
 title:  "45 days of nomadic biking: from Satu-Mare, Romania to Trondheim, Norway"
 date:   2016-03-31 08:00:00 +0200
-categories: biking touring travel
+categories: cycling, touring, travel, couchsurfing
 preview-img: https://lh3.googleusercontent.com/D64jnPcrveYKVthohhZzElzxJIKRM0vhhcBh0snAA3ErjBcAgww44LAKipPbIGj820xFNSRMkdVijHHEvJ0_UPs4oiUOGEiA4ZuqNs6vaHwk_3qYLuT6iSQHD9SOwZvuDriHtw=w1240-h827-no
 
 ---

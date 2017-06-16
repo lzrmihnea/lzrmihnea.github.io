@@ -3,6 +3,7 @@ layout: post
 title: Cluj-Napoca, hammocking in Mercur Park
 date: '2017-06-16 14:19:13 +0300'
 preview-video-youtube: 'https://www.youtube.com/embed/CQQNnuC0E3A'
+categories: vlog
 ---
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/CQQNnuC0E3A" frameborder="0" allowfullscreen></iframe>

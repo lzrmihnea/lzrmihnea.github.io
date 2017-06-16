@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "\'Grit\' by Angela Duckworth [book notes]"
+title:  "\'Grit\' by Angela Duckworth"
 date:   2017-05-05 9:00:01 +0200
 categories: books, notes
 preview-img: https://angeladuckworth.com/wp-content/uploads/2015/11/book-cover1.png

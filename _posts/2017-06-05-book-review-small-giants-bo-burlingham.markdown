@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "\'Small Giants\' by Bo Burlingham [1min book review]"
+title:  "\'Small Giants\' by Bo Burlingham"
 date:   2017-06-05 21:30:01 +0200
 categories: books, reviews
 preview-img: https://images.gr-assets.com/books/1347565489m/100467.jpg

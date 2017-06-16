@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "[Java][Spring] Integration Testing module using properties from Tested Modules"
+title:  "Integration Testing module using properties from Tested Modules"
 date:   2017-06-15 19:00:00 +0300
 categories: tech, java, spring
 ---
