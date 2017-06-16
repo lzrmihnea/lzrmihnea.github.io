@@ -10,7 +10,6 @@ categories: vlog
 
 
 * Music: **Vlad Flueraru - Zambet pecetluit** [**[song][vlad-flueraru-song]**] [**[fb][vlad-flueraru-fb]**] [**[bandcamp][vlad-flueraru-bandcamp]**]
-
 * Shot with **Canon G7X**
 * Edited in **Adobe Premiere Pro CS6**
 
