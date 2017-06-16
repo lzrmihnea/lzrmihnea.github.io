@@ -1,56 +1,53 @@
 ---
 layout: post
-title: "\'36 craft essays\' - Chuck Palahniuk's writing hints "
-date: 2017-05-29 00:17:59 +0200
+title: "\'36 craft essays\' - Chuck Palahniuk's writing hints [book notes]"
+date: 2017-06-16 15:00:00 +0300
 categories: writing
 ---
 36 Writing Craft Essays by Chuck Palahniuk
 
+> This series of essays is not the perfect way to write Fiction. This is only what works for me. So, please, take or leave anything you read here. If it helps, use it. If not, thank you for considering my view.
+>
+> Chuck Palahniuk
 
-!e two most eﬀective ways – that I use – to establish authority are: Honesty and frankness. Or demonstrating knowledge. Heart versus Head
+## 1. Establishing authority: Head or Heart
 
+Establish a character to the reader by heart involves **being honest, telling a character's secret, an embarassing aspect of their past, something intimate, something that makes you look bad**.
 
-In the %rst method (as demonstrated in the preceding essay) you risk revealing something that makes you look bad. You allow yourself to become the fool instead of the hero. And by doing so, you allow your reader to risk becoming involved, emotionally involved, in your story. In a way, your honesty proves to the reader that the story will not be about proving your glory. You admit your failures and weakness, and doing so lets your reader admit and accept their own. You prove a story – and life – doesn’t have to be about looking good
+> By doing so, you allow your reader to risk becoming involved, emotionally involved, in your story. In a way, your honesty proves to the reader that the story will not be about proving your glory.
 
+Establish authority by knowledge, by head, involves **being frank, having the character explain something scientific or technical in great detail, proving themselves**.
 
-!e second method for establishing authority is through knowledge: Prove to your reader that you’ve done your research. !at your narrator is the best, most-quali%ed person to tell this story. !is method won’t engage the reader emotionally, not like the Honesty method, but it can be impressive and compelling
+> Among my favorite books, Jesus’ Son by Denis Johnson has moments of such brutal, un$attering honesty, that I will read it again and again. And feel shocked and touched each time
 
-
-Among my favorite books, Jesus’ Son by Denis Johnson has moments of such brutal, un$attering honesty, that I will read it again and again. And feel shocked and touched each time
-
-
-Among my favorite books, Ill Nature by Joy Williams is %lled with such a burden of horrible data about the destruction of the natural world, that reading it is addictive
-
-
-Still – Heart or Head – both methods establish the writer or narrator’s authority. !ey engage the reader, and help prove the authenticity of the story
+> Among my favorite books, Ill Nature by Joy Williams is %lled with such a burden of horrible data about the destruction of the natural world, that reading it is addictive
 
 
-this series of essays is not the perfect way to write %ction. !is is only what works for me. So, please, take or leave anything you read here. If it helps, use it. If not, thank you for considering my view. 7
-
-
-For homework, pull a few books down oﬀ the shelf and look for examples of the Head or Heart scenes where the author is establishing authority. !ey tend to be early in a book, where the authority is most needed. And where establishing it won’t slow down the escalating plot. 8
 
 
 write an anecdote that establishes authority using knowledge and data. You might have to do some research to establish a “body of knowledge.” One good method is to meet and casually interview someone about what they know best – typically, what they do for a living. You’ll notice that people always look wonderful – open and animated – when they speak with the authority of their profession
 
 
-!is second essay is about using a limited number of themes – perhaps the core of what I call Minimalism
+## 2. Themes
+
+The theme refers to the background central element of a story, like a spooky house, a racing tournament or so on.
+
+> Once you begin to develop your theme you’ll find constant new ways to present it. One of my favorite methods has always been to go out to a party. There, I’ll drop the theme into conversation. Crowd seeding. I’ll tell a personal anecdote such as: those scary wells from childhood. then, I can kick back and just listen as everyone gives their own – much better – version of my story. this way, you have dozens of people $eshing out your theme. Maybe hundreds. And you’ll find that theme becomes universal, expanding to touch everyone’s life
 
 
-!e commercial was doing what a lawyer does in court. What good Minimalist writing should do. It presents a focussed case, a series of images or details that will prompt the viewer to a speci%c decision. In eﬀect: Skipper’s is a good place to eat. Or, Burbank, Washington is a spooky, spooky little town. Only my most-distant relatives still live there, but my grandpa did make the metal street signs. !e old people down the road from us, the Purcells, kept a little monkey they tied to a weeping willow tree in their yard. Summer afternoons, us kids would feed the 16
+! th
+$
+% fi
 
 
-!is might sound limiting, but once you begin to develop your theme you’ll %nd constant new ways to present it. One of my favorite methods has always been to go out to a party. !ere, I’ll drop the theme into conversation. Crowd seeding. I’ll tell a personal anecdote such as: !ose scary wells from childhood. !en, I can kick back and just listen as everyone gives their own – much better – version of my story. !is way, you have dozens of people $eshing out your theme. Maybe hundreds. And you’ll %nd that theme becomes universal, expanding to touch everyone’s life
+> For homework, read Amy Hemple’s short story !e Harvest. It’s a beautiful list of details, all steering you along to heartbreak. If you can’t %nd that story, look for her story, In the Cemetery Where Al Jolson is Buried
 
 
-For homework, read Amy Hemple’s short story !e Harvest. It’s a beautiful list of details, all steering you along to heartbreak. If you can’t %nd that story, look for her story, In the Cemetery Where Al Jolson is Buried
+
+## 3. Evoking somatic responses from the reader
 
 
-It’s one thing to engage the reader mentally, to enroll his or her mind and make them think, imagine, consider something. It’s another thing to engage a reader’s heart, to make him or her feel some emotion. But if you can engage the reader on a physical level as well, then you’ve created a reality that can eclipse their actual reality
-
-
-!is third essay is to demonstrate physical sensation in a story
-
+> But if you can engage the reader on a physical level as well, then you’ve created a reality that can eclipse their actual reality
 
 Words like “searing pain” or “sharp, stabbing pain” or “throbbing headache” or “ecstatic orgasm” don’t evoke anything except some lame-ass paperback thriller book. !ose are the cliches of a cheating writer. Little abstract short-cuts that don’t make anything happen in the reader’s gut. No, you want the pain – or whatever physical sensation – to occur in the reader, not on the page. So un-pack the event, moment by moment, smell by smell
 
@@ -61,14 +58,18 @@ Another method is to inject medical language – the almost-poetry of surgical j
 But with sex, it helps if you re-invent the language of sex. Most people have their own pet vocabulary for sex organs and sex acts. To make an orgasm fresh and unique – even if it’s just words happening on a page – invent a way that only your narrator would talk about sex. !at special nickname for their genitals. !eir euphemism for intercourse
 
 
-For another exercise, write out an event from your past that involved a strong physical sensation. Un-pack it, detail by detail, and create the sensation in the reader’s gut. Again, without using abstract short-cuts that describe the sensation. Always, create the sensation. 27
+> For another exercise, write out an event from your past that involved a strong physical sensation. Un-pack it, detail by detail, and create the sensation in the reader’s gut. Again, without using abstract short-cuts that describe the sensation. Always, create the sensation. 27
 
+
+## 4. Submerging the 'I'
 
 In contrast, third person stories can feel as if they’re being told by someone too afraid to take responsibility. Still, the problem is – we hate that “I.” !e answer? Use the %rst person voice, but hide the I
 
 
 So consider writing in the %rst person, but after your %rst draft – take out as many I’s as possible. Or hide them. Change them to “mine” or “me” or “my.” Or switch to the rhetorical second person or even third person. Just get rid of those I’s. My personal demon is any story that starts with “I.” !at instantly turns oﬀ my attention. But that’s just me. Keep that camera pointed away from yourself for as long as possible
 
+
+## 5. Hiding a gun
 
 In the book/movie Breakfast at Tiﬀanys, the female lead makes money by visiting a criminal in prison, and posing as his niece to convey messages coded to sound like weather forecasts
 
@@ -91,6 +92,7 @@ After you’ve dissected everything, look for new ways to “hide guns.” Beyon
 One of my favorites is the grim love story !ey Shoot Horses, Don’t !ey
 
 
+### Unpacking tools
 To start work at the Freightliner Truck plant, I had to bring a sledgehammer I’d never, ever use. !e “required tools list” called for three socket sets in metric and English sizes. It called for a lady-foot pry bar. You had to bring sets of %xed and adjustable crescent wrenches. You had to bring a ball-peen hammer. Two sets of screwdrivers in Phillips and standard-head sizes. A %fty-foot tape measure. Wire cutters. Snub-nosed pliers. Adjustable pliers. Needle-nosed pliers. And vise-grips. And safety glasses. And all of these had to be engraved with your Social Security number and %t into a tool box you could carry from your car in the parking lot, for 157 back-breaking steps to your work station. All these tools cost a total of almost one thousand bucks – money I had to borrow. !en, on the job, the foreman handed you a company-owned speed wrench, and you never touched those shiny new tools you’d lugged to work. Maybe you sat on your tool box during break, but you’d almost never open it
 
 
@@ -106,10 +108,12 @@ Often, writers will start with a vague %rst paragraph, then a stronger, detailed
 So much about writing is about timing, and the only way I know to get that right is to read your work out loud for people
 
 
+### Verbs!
+
 !is year, scientists published two studies that prove a reader’s brain reacts to verbs in stories – hitting or kissing or chewing – that same way the brain would react if the reader’s body were actually hitting, kissing or chewing. !e motor cortex of the brain lights up with electrical activity just as if the reader were living the story, performing those actions. !at alone should be enough reason for you to use verbs, to create action and make something happen in every scene or story. 49
 
 
-I mark the places where people laugh. I mark where the story needs to stop for a moment longer, a pause in the form of a bland chorus or a fragment of $ashback reference (in “Guts” it’s moments like the line: “What even the French won’t talk about…”), these moments where the listeners needed time to comprehend a plot point that isn’t stated by the narrator. Always, always, always, the goal is to bring the listeners to any realization a paragraph before the narrator states it
+I mark the places where people laugh. I mark where the story needs to stop for a moment longer, a pause in the form of a bland chorus or a fragment of $ashback reference (in “Guts” it’s moments like the line: “What even the French won’t talk about…”), these moments where the listeners needed time to comprehend a plot point that isn’t stated by the narrator. **Always, always, always, the goal is to bring the listeners to any realization a paragraph before the narrator states it**
 
 
 As homework, %nd a copy of !e Ice At the Bottom of the World by Mark Richard. !is is a collection of the most poetic but dynamic, action-%lled short stories I’ve ever read
@@ -117,6 +121,8 @@ As homework, %nd a copy of !e Ice At the Bottom of the World by Mark Richard. !i
 
 In stories like “Strays” and “Her Favorite Story,” Richard plays with sounds the way a musician plays a melody on a piano, repeating the same vowels and consonants to create a music of words – that also tell a compelling story
 
+
+### How do I tell time ?
 
 Now, for homework, ask yourself: “How do I tell time?” Because you don’t use abstracts – hours, minutes, seconds – what do you use in everyday life to tell time? Me, I usually section my morning by cups of coﬀee. !ree cups equal one hour. My shower and shaving equals a half hour. My morning emails, about half an hour
 
@@ -127,8 +133,12 @@ Now, for homework, ask yourself: “How do I tell time?” Because you don’t u
 If you’re up for a second homework assignment, please look back over the topics discussed this past year – establishing authority, hiding a gun, avoiding ‘thought’ verbs, 57
 
 
-How often do you stand stock-still with another frozen, paralyzed person and hold a conversation? Maybe only during the hottest moment of the hottest argument you’ve ever had. Maybe never. Probably never. Watch yourself. Watch a movie. Look for the speci%c bits of physical “business” that characters perform as they speak. Look for the tasks that keep their hands busy, and create a distraction from the conversation at hand, thereby adding tension and visual interest to the scene
+### Nervous ticks, things characters do while they talk
 
+How often do you stand stock-still with another frozen, paralyzed person and hold a conversation? Maybe only during the hottest moment of the hottest argument you’ve ever had. Maybe never. Probably never. Watch yourself. Watch a movie. **Look for the speci%c bits of physical “business” that characters perform as they speak. Look for the tasks that keep their hands busy, and create a distraction from the conversation at hand, thereby adding tension and visual interest to the scene**
+
+
+### Writing traps, finding a place to write
 
 In my perfect writing trap, it’s like this: Very little distraction (no television or radio); enforced seating; a space foreign to me; a lot of other people engaged in some kind of learning or testing; the minimal comforts are provided; and I can’t easily leave for at least an hour
 
@@ -148,8 +158,7 @@ For homework, look for places where people tell stories. And look for the “mem
 Most of writing isn’t the brainstorming, exciting $ashes of idea that come so fast. Most of writing is the momentby-moment choice of details that will create your physical reality on the page
 
 
-A limited number of physical details make up every reality – one smell (on none), one texture, one sound
-
+### A limited number of physical details make up every reality – one smell (on none), one texture, one sound. One gesture or nervous tic
 
 A limited number of physical details make up every reality – one smell (on none), one texture, one sound. One gesture or nervous tic
 
@@ -157,28 +166,26 @@ A limited number of physical details make up every reality – one smell (on non
 What is your character doing when he or she isn’t doing anything
 
 
-Anytime you want to use a simile, a metaphor will usually work better. Stronger. Instead of: “Being married to Jim was like driving %ve years down a dirt road”… the stronger version is: “Being married to Jim was %ve years of driving down a dirt road.” Or better yet, “Being married to Jim left you shaky as a %ve-year drive down a dirt road
+**Anytime you want to use a simile, a metaphor will usually work better. Stronger. Instead of: “Being married to Jim was like driving %ve years down a dirt road”… the stronger version is: “Being married to Jim was %ve years of driving down a dirt road.” Or better yet, “Being married to Jim left you shaky as a %ve-year drive down a dirt road**
 
 
-If you have to use a comparison, linger on it, over-do it. I loved doing this in Lullaby. For example, “Her blouse was the same pink as strawberry sherbet, but sherbet served on a green Haviland dessert plate on a tablecloth of Belgian lace beside a window overlooking Paris
+**If you have to use a comparison, linger on it, over-do it. I loved doing this in Lullaby. For example, “Her blouse was the same pink as strawberry sherbet, but sherbet served on a green Haviland dessert plate on a tablecloth of Belgian lace beside a window overlooking Paris**
 
 
-!is brings us to three types of words to still avoid: “Like” comparisons. “Is” and “has” verbs (“the dog had a limp” is never has strong as “the dog walked with a limp”)
+**!is brings us to three types of words to still avoid: “Like” comparisons. “Is” and “has” verbs (“the dog had a limp” is never has strong as “the dog walked with a limp”)
 
 
 And, the dreaded “thought” verbs such as, “knew, realized, believed, worried, understood,” that let you spoon feed your reader, instead of letting the reader think
 
 
-Strike out the word “like,” every time you %nd it
+Strike out the word “like,” every time you %nd it**
 
 
 Copy and Compose by Winston Weathers and Otis Winchester
 
 
-How does a character tell a story, with full knowledge of how it will end, but with the immediacy that keeps the reader in the present moment of the action? Stories are told after the fact. !e teller has already made the journey, and been changed by the process, but the reader has not. So, again, how does the storyteller acknowledge the fact she has survived? She is wise and enlightened. And how does she revert and tell the story from the perspective of the innocent, unenlightened person who has to go back and make the journey with the reader
 
-
-A paradox of storytelling is: How does a character tell a story, with full knowledge of how it will end, but with the immediacy that keeps the reader in the present moment of the action? Stories are told after the fact. !e teller has already made the journey, and been changed by the process, but the reader has not. So, again, how does the storyteller acknowledge the fact she has survived? She is wise and enlightened. And how does she revert and tell the story from the perspective of the innocent, unenlightened person who has to go back and make the journey with the reader
+**A paradox of storytelling is: How does a character tell a story, with full knowledge of how it will end, but with the immediacy that keeps the reader in the present moment of the action? Stories are told after the fact. !e teller has already made the journey, and been changed by the process, but the reader has not. So, again, how does the storyteller acknowledge the fact she has survived? She is wise and enlightened. And how does she revert and tell the story from the perspective of the innocent, unenlightened person who has to go back and make the journey with the reader**
 
 
 ground your telling in a tangible scene so you can tease without annoying your reader
@@ -186,6 +193,7 @@ ground your telling in a tangible scene so you can tease without annoying your r
 
 To live in a democracy, you must be willing to live as a savior or a slave. To have all or nothing. And you have very little control over that choice
 
+# I was last here. Pick off from here.
 
 Either way, you’ll be lost. Destroyed. Either by yourself, out of self-hatred. Or by your society because you pose too big a threat. Or… Or, you can choose something diﬀerent. You can learn from the destruction of others. You can create and live into a new system. You can rise above the either/or choice of being a parent versus a child. A savior versus a slave. And you can become an adult, not rebelling against or caving into your culture, but creating a vision of your own and working to make that option into something real
 
