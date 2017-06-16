@@ -171,12 +171,14 @@
 }
 
 .post-list {
-  margin-left: 0;
+  margin-left: 0em;
   list-style: none;
 
   > li {
     margin-bottom: $spacing-unit;
   }
+  > li:nth-child(even) {
+    background: rgb(240, 240, 240)}
 }
 
 .post-meta {
@@ -211,12 +213,14 @@
   width: auto;
   max-width: 40vw;
 }
+.post-container-inner{
+  padding-left: 1em;
+}
 
 .end-of-post-home-icon img {
   display: flex;
   margin: auto;
 }
-
 
 /**
  * Posts
