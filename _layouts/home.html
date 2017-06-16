@@ -13,7 +13,9 @@ layout: default
       <div class="post-container-outer">
 
         <div class="post-container-inner">
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta">
+            {{ post.date | date: "%b %-d, %Y" }} | {{ post.categories }}
+          </span>
           <br/>
           <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </div>
