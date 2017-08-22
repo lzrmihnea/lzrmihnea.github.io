@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "\'36 craft essays\' - Chuck Palahniuk's writing hints"
-date: 2017-06-16 15:00:00 +0300
+date: 2017-08-21 18:07:00 +0300
 categories: writing, books, notes
 ---
-36 Writing Craft Essays by Chuck Palahniuk
 
 > This series of essays is not the perfect way to write Fiction. This is only what works for me. So, please, take or leave anything you read here. If it helps, use it. If not, thank you for considering my view.
 >
 > Chuck Palahniuk
 
 
-In the course of his writing essays that are meant as a workshop, the author of the cult classic "Fight Club" offers his advice and tips on writing good stories, along with some samples, which he analyzes bit by bit.
+In the course of his writing essays that are meant as a series of workshops, the author of the cult classic "Fight Club" offers his advice and tips on writing good stories.
+
+What follows are notes and ideas from those essays.
 
 ___
 # 1. Elements of story arc
