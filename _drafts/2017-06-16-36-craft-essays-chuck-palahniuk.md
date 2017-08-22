@@ -20,25 +20,25 @@ ___
 - Head: show knowledge, prove to the reader that the character or narrator is entitled to present the story.
 - Heart: present flaws or embarrassing info about the character.
 
-1.2 Themes
+1.2. Themes
 - Background element of the story: a spooky house, a tournament, an alien invasion.
 - Unrelated tip: If you need more freedom, change the character names.
 
 1.3. Speeches come in 3 forms:
 -	Descriptive: "The sun rose high";
 - Instructive: "Walk, don’t run";
-- Expressive: "Ouch!"
+- Expressive: "Ouch!".
 
 1.4. Write the book you want to read
 - Write about the issues that upset you.
 
-1.5. Write from within some complicated system, job, bureaucracy
+1.5. Write from within some complicated system, job, bureaucracy:
 - Write about something very mundane until it breaks down to absurdity.
--	Use illness, drugs or sleep deprivation as devices
+-	Use illness, drugs or sleep deprivation as devices.
 
-1.6. Build to the absurd quick, get out fast
+1.6. Build to the absurd quick, get out fast.
 
-1.7. If you can let the story/scene surprise you, you can surprise your reader
+1.7. If you can let the story/scene surprise you, you can surprise your reader.
 
 1.8. Writing traps for the writer
 - Find controller places to write which confine you to a single space and restrict distractions.
@@ -46,38 +46,40 @@ ___
 ___
 # 2. Character design
 
-2.1 Build a list of interesting facts about your character that you could later evoke
+2.1. Build a list of interesting facts about your character that you could later evoke.
 
-2.2. Present a character’s flaws
+2.2. Present a character’s flaws.
 
 2.3. Money alone is boring, abstract shit
 - Make money equivalent to a character’s dreams and priorities.
 
-2.4. A character with nothing left to lose can reveal his deepest desire
+2.4. A character with nothing left to lose can reveal his deepest desire.
 
 2.5. Fast way to create tension? Hold a character underwater.
 
-2.6. Look for everyday lies which people try double-hard to conceal
+2.6. Look for everyday lies which people try double-hard to conceal.
 
 ___
 # 3. Scene setup
 
 3.1. Hiding or burying a gun
-- Use objects as memory cues which can later be evoked and used to move the story further.
-- An insincere promise is a lie is a gun (it’s artificial and manipulative, but it might save you when stuck in a corner)
+- Use objects, motifs, memories, topics, anything which can later be evoked and used to move the story further.
+- Like holding your breath in "Guts" or waking up as another person in "Fight Club".
+- An insincere promise is a lie is a gun (it’s artificial and manipulative, but it might save you when stuck in a corner).
 
 > If you put an object on a page, use it!
 
-3.2. Bring the listener to any realization a paragraph before the narrator states the fact
+3.2. Bring the listener to any realization a paragraph before the narrator states the fact.
 
-3.3. A limited number of physical details make up my reality
-– a smell, a texture, a sound, a nervous tick
+3.3. A limited number of physical details make up my reality:
 
-3.4. What earlier setups will this scene pay off ?	Know the purpose of each scene or chapter before writing it
+- a smell, a texture, a sound, a nervous tick.
+
+3.4. What earlier setups will this scene pay off ?	Know the purpose of each scene or chapter before writing it:
  - Ask yourself clearly what earlier questions will this scene answer, and what larger questions will this scene raise.
  - You don’t have to know every plot point before you begin writing.
 
-3.5. If stuck, read an earlier scene, looking for "buried guns"
+3.5. If stuck, read an earlier scene, looking for "buried guns".
 
 ___
 # 4. Language
