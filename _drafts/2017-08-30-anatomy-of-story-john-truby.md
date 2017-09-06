@@ -129,5 +129,52 @@ Anatomy of story
 11. Seasons. If relevant and original, the passing of the seasons can be connected to the story.
 12. Subworlds. Any character or moment of the story can have a subworld attached.
 
-## Symbolic characters
-1. 
+## Writing exercise 6 - Creating symbols
+1. Story symbol - is there at least one symbol to express the premise, key story twists, central theme or overall structure of the story?
+2. Symbolic characters, to determine the symbols for these:
+2.1. Look at the entire character web before creating a symbol for a single character.
+2.2. Begin with the opposition between hero and main opponent.
+2.3. Come up with a single aspect of the character or a single emotion you want the character to evoke in the audience.
+2.4. Consider applying a symbol opposition within the character.
+2.5. Repeat the symbol, in association with the character, many times over the course of the story.
+2.6. Each time you repeat the symbol, vary the detail in some way.
+3. Character type - consider connection some characters to types, like gods, animals or machines.
+4. Symbolic character change - can a symbol be attributed to a character change? Look at the beginning scenes where the needs and weaknesses of a character are expressed, and at the end where the revelation is expressed.
+5. Symbolic theme, encapsulates the main theme of the story.
+5.1. Thematic symbol, is one that stands for two series of moral actions in conflict.
+6. Symbolic world. Symbols can be attached to the natural settings, man-made spaces, technology and time.
+7. Symbolic actions can be attributed to the actions of some characters.
+8. Symbolic objects
+9. Symbol development - chart how each symbol changes over the course of the story.
+
+## The 22 building steps of storytelling:
+1. Self-revelation, need, and desire
+1.1. What will my hero learn at the end?
+1.2. What does he know at the beginning? No character is a blank slate.
+1.3. What is the hero wrong about at the beginning? This is what he should learn until the end, what the self-revelation will be about.
+2. Ghost and story world
+2.1. The ghost represents the past of the hero. Something that haunts the hero.
+2.2. The story world is the setting and universe of the story. This must be unique and detailed.
+3. Weakness and need
+Openings. The steps so far represent the opening of the story. These openings can be:
+3.1. Running start. Classic, designed to catch the reader in first few pages, made up of a few structural elements, such as the hero having a strong ghost.
+3.2. Slow start. Seldom used, involves stories with a purposeless hero at the beginning, until the hero learns his desire.
+4. Inciting event
+5. Desire. While building the story, the intensity of the desire can grow, to emphasize its importance.
+6. Ally or allies
+7. Opponent and/or mystery. The best opponent is the necessary one; the character best able to attack the greatest weakness of the hero.
+8. Fake-ally opponent
+9. First revelation and decision: Changed desire and motive
+10. Plan
+11. Opponent's plan and main counterattack
+12. Drive
+13. Attack by ally
+14. Apparent defeat
+15. Second revelation and decision: Obsessive drive, changed desire and motive
+16. Audience revelation
+17. Third revelation and decision
+18. Gate, gauntlet, visit to death
+19. Battle
+20. Self-revelation
+21. Moral decision
+22. New equilibrium
