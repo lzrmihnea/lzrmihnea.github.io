@@ -108,4 +108,26 @@ Anatomy of story
 - thematic revelation, where the theme achieves its greatest impact. It is not limited to the hero, but rather an insight from the audience about how people in general should act and live in the world.
 
 ## Writing exercise 4 - Outlining the moral argument
-1. Design principle 
+1. Design principle - turn this into a theme line (your view about right and wrong action in 1 sentence). Focus on its key actions and moral effects.
+2. Theme line techniques - like symbols, that can encapsulate the principle into a structure unique to the story.
+3. Moral choice, that the hero must make in the end of the story.
+4. Moral problem, that the hero confronts throughout the story.
+5. Characters as variations on a theme, starting with the hero and main opponent, each should approach the central moral problem differently.
+6. Values in conflict
+
+## Writing exercise 5 - Creating the story world
+1. One-line description of the world, using the design principle
+2. Overall arena. How will a single arena be maintained throughout the story?
+3. Value oppositions and visual oppositions - assign visual oppositions that complement the characters' value oppositions.
+4. Land, people and technology - explain how this combination is molded in your story.
+5. System - the hero works and lives in a system with rules and hierarchies which should be explained, along with the hero's place.
+6. Natural settings, could be included in the story, such as an ocean, a forest, but should be added in a way tailored for the story, unique, unpredictable.
+7. Weather. While avoiding cliches, some weather conditions can be used for certain moments of the story, to outline underlying messages.
+8. Man-made spaces, can also help express certain ideas or symbols.
+9. Passageways, if the character moves from one world to another, the passageway should be unique.
+10. Hero's change or world change - decide if the world will also change, along with the hero.
+11. Seasons. If relevant and original, the passing of the seasons can be connected to the story.
+12. Subworlds. Any character or moment of the story can have a subworld attached.
+
+## Symbolic characters
+1. 
