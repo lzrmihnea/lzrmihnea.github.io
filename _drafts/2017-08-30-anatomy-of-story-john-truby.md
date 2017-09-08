@@ -166,6 +166,7 @@ Openings. The steps so far represent the opening of the story. These openings ca
 8. Fake-ally opponent
 9. First revelation and decision: Changed desire and motive
 10. Plan
+- In good stories, the hero's initial plan almost always fails.
 11. Opponent's plan and main counterattack
 12. Drive
 13. Attack by ally
@@ -178,3 +179,55 @@ Openings. The steps so far represent the opening of the story. These openings ca
 20. Self-revelation
 21. Moral decision
 22. New equilibrium
+
+## Writing exercise 7 - Creating your plot
+1. Review the design principle and theme of the story.
+- If a story symbol is used, the plot should be an expression of this symbol.
+2. Storyteller. Decide if one will be used, and keep in mind there are structural techniques for one.
+3. Describe the 22 steps in detail.
+4. Reveals sequence. List these separate from the other steps, and look for the following elements to make them as dramatic as possible:
+- The sequence should be logical.
+- Each reveal more intense than the previous.
+- Each reveal causes the hero's original desire to change in some way.
+- As the story moves towards the end, the reveals come at a faster pace.
+
+## Writing exercise 8 - Scene weave
+1. List every scene in the story in a single sentence.
+2. Tag any scenes that include on of the 22 steps.
+- If the story has more than one plotine or subsection, label each with the appropriate plotine.
+2.2. Ordering scenes, should be done by structure, not chronological:
+- See if scenes can be cut.
+- Look for opportunities to combinare 2 scenes into 1.
+- Add a scene wherever there are gaps in the story's development.
+
+## Scene construction and ministory
+A scene is a ministory. A good scene should have 6 of the 7 structure steps (self-revelation is excluded), which is reserved for the hero at the end of the story.
+To construct a scene, 2 objectives are to be achieved:
+1. Determine how it fits and furthers the overall hero development.
+2. Make it a good ministory.
+The beginning of the scene should frame what the scene is about, and should funnel down to a single point, with the most important word or line of dialogue stated last.
+
+To construct a sequence, the following ideas can help:
+1. Position on the character arc.
+- How does this scene fit into the character development?
+- How does it further the development?
+2. Problems - What must be accompplished or solved in this scene?
+3. Strategy - What strategy can be used to solve the problem?
+4. Desire
+- Which character desire will drive this scene?
+- What is the character's motivation?
+5. Endpoint - What does the character's desire resolve?
+6. Opponent - Who opposes the desire and what do the two or more characters fight about?
+7. Plan - The character with the desire comes up with a plan.
+8. Conflict - Builds to a breaking point or a solution.
+9. Twist or reveal.
+
+## Dialogue.
+Dialogue is not real talk, it is highly selective language that sounds like it could be real. Good dialogue is always more intelligent, wittier, more metaphorical and better argumented than in real life.
+Great dialogue is not a melody, but a symphony, happening on 3 tracks simultaneously:
+1. Story dialogue - Talk about what the characters are doing, about the story.
+2. Moral dialogue
+- On right and wrong action.
+- Provides depth, texture and scope.
+- About the character's attitudes and points of view.
+3. Key words or phrases - Words with the potential to carry meaning, symbolically and thematically.
