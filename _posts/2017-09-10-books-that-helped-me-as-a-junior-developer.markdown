@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Books that helped me as a junior developer"
-date: "2017-09-10 08:01:00 +0300"
+date: "2017-09-11 00:01:00 +0300"
 categories: tech, java, books, software
 ---
 
