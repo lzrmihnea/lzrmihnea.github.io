@@ -50,7 +50,7 @@ If not for the perspective shift, it's an entertaining book to read. Give it the
 
 ___
 # 6. **Effective Java Programming Language Guide** - Joshua Bloch
-A lecture not necessarily for young software developers, the book is jam packed with good practices to keep in mind when coding. Some notions are difficult to understand if you have only basic knowledge of software development, but others are essential to keep in mind even if you're a young coder. It's a work can be read and re-read to keep in mind and maybe discover some advice that you missed on an earlier read.
+A lecture not necessarily for young software developers, the book is jam packed with good practices to keep in mind when coding. Some notions are difficult to understand if you have only basic knowledge of software development, but others are essential for young coders. It's a work that can be read and re-read for advice that might have been missed on an earlier reading.
 
 4/5 stars, helpful, informative [**[goodreads][effective-java-goodreads]{:target="_blank"}**] [**[amazon][effective-java-amazon]{:target="_blank"}**]
 
