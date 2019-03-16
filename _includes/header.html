@@ -5,11 +5,13 @@
     <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
 
     <div class="site-nav">
-        {% include icon-facebook.html pagename=site.facebook_page %}
+        <a href="{{ "/reading-lists" | relative_url}}" class="img_reading-list">reading</a>
+        <!--{% include icon-facebook.html pagename=site.facebook_page %}-->
+        |
         {% include icon-github.html username=site.github_username %}
         <!-- <a target="_blank" href="https://twitter.com/lzrmihnea">tw</a> -->
-        <a target="_blank" href="https://www.goodreads.com/user/show/6988924-mihnea">gr</a>
-      </div>
+
+    </div>
 
     <!-- <nav class="site-nav">
       <span class="menu-icon">
