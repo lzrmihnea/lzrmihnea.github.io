@@ -73,7 +73,7 @@ Anatomy of story
 - find a natural reason for the hero and opponent to stay in the same place during the course of the story.
 
 # Writing exercise 3 - creating your character
-- create the character web, listing them as detailed as possible and attributing their functions(hero, main opponent, ally, fake-ally, subplot character).
+Create the character web, listing them as detailed as possible and attributing their functions(hero, main opponent, ally, fake-ally, subplot character).
 - central moral problem of the story?
 - compare the characters, by the following structural elements:
 -- weaknesses
