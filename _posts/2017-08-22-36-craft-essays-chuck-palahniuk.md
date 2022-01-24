@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\'36 craft essays\' - Chuck Palahniuk's writing hints"
+title: "'36 craft essays' - Chuck Palahniuk's writing hints"
 date: 2017-08-21 18:07:00 +0300
 categories: writing, books, notes
 ---
