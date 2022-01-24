@@ -19,6 +19,7 @@ gem "jekyll", "4.2.1"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.16"
    gem 'wdm', '~> 0.1.1'
+   gem 'webrick', '~> 1.3', '>= 1.3.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
