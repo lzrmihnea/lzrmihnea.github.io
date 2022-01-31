@@ -47,3 +47,9 @@ permalink: /a/:title
 
 disqus:
   shortname: lzrmihnea-github-io
+
+defaults:
+  - scope:
+      path: "assets/files"
+    values:
+      file: true
