@@ -9,9 +9,6 @@ categories: work
 I most certainly can...
 
 <iframe width="720" height="360" src="https://www.youtube-nocookie.com/embed/8ePHBvcFY0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* Music: **[Vlad Flueraru - Zambet pecetluit](https://www.youtube.com/watch?v=QfK0TS61u_c){:target="_blank"}**
-* Shot with **Canon G7X**
-* Edited in **[Blender 3.0.1](https://www.blender.org/download/){:target="_blank"}**
 
 ___
 
