@@ -5,9 +5,30 @@ date: "2022-01-31 08:00:00 +0300"
 categories: work
 ---
 
+### Can you tell me a bit about yourself?
+I most certainly can...
+
+<iframe width="720" height="360" src="https://www.youtube-nocookie.com/embed/8ePHBvcFY0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Music: **[Vlad Flueraru - Zambet pecetluit](https://www.youtube.com/watch?v=QfK0TS61u_c){:target="_blank"}**
+* Shot with **Canon G7X**
+* Edited in **[Blender 3.0.1](https://www.blender.org/download/){:target="_blank"}**
+
+___
 
 ### What technologies have you worked with?
-TODO
+
+**Development**: 
+* **Java**: 2013-present
+* **Spring**: 2015-present
+* JS-based: **Node.js, React.js, Angular.js**: 2019-present
+* Testing: **Mockito, Junit, ArchUnit**: 2017-present
+
+**Operations**:
+* Build tools: **Ant, Maven, Gradle**: 2015-present
+* CI/CD: **Jenkins, Gitlab, Docker**: 2016-present
+* Cloud: **Kubernetes**: 2019-present; **GCP, AWS** - theory & trainings
+
+Methodologies: **Agile SCRUM, KANBAN: 2013-present**
 
 ___
 
