@@ -1,5 +1,6 @@
 .collaborate-body {
    
+  
    .youtube-video-container {
       position: relative;
       overflow: hidden;
@@ -18,7 +19,12 @@
       left: 0;
       width: 100%;
       height: 100%;
+      max-width: 95%;
+      margin-left: 1em;
+      border-radius: 0 0 1em 1em;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
    }
+
    ul {
       list-style: none;
       font-family: arial,sans-serif;
@@ -29,11 +35,12 @@
       -webkit-transition: color 4s;
       transition: color 4s;
       border-radius: 1em;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    }
    
    li:hover,
    li.active {
-         background-color: rgb(233, 248, 236) !important;
+         background-color: rgb(243, 248, 246) !important;
    }
    li div {
      padding: 0.5em;
@@ -51,10 +58,12 @@
    }
    .collaborate-answer {
       font-size:1.2em;
+      margin-left: 0.5em;
+      margin-bottom: 1.5em;
    }
     
     /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 640px) {
       .collaborate-question {
          font-size:1.5em
       }
@@ -62,6 +71,7 @@
          font-size:1em
       }
     }
+    
    }
  
 
