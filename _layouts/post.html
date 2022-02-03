@@ -18,7 +18,11 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="footer-col-wrapper"> {% include mailchimp-subscription.html %}</div>
+  {% if page.subscribe != false %}
+  <div class="footer-col-wrapper">
+    {% include mailchimp-subscription.html %}
+  </div>
+  {% endif %}
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
