@@ -21,7 +21,7 @@
    }
    ul {
       list-style: none;
-      font-family: 'Courier New', Courier, monospace;
+      font-family: arial,sans-serif;
    }
 
    li {
@@ -33,24 +33,24 @@
    
    li:hover,
    li.active {
-         background-color: rgb(213, 248, 216) !important;
+         background-color: rgb(233, 248, 236) !important;
    }
    li div {
      padding: 0.5em;
    }
    li:nth-child(odd) {
-      margin-left:20em;
    }
    li:nth-child(even) {
       background: rgb(240, 240, 240);
-      margin-right:20em;
    }
 
    .collaborate-question {
+      font-size:1.5em;
       font-weight: bold;
+      background-color: rgb(213, 248, 216)
    }
    .collaborate-answer {
-      font-size:1em;
+      font-size:1.2em;
    }
     
     /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
