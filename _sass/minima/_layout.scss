@@ -221,6 +221,7 @@ body {
   height: 5em;
   width: auto;
   border-radius: 0.5em;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);  
 }
 
 .post-container-outer iframe {
@@ -229,6 +230,7 @@ body {
   width: auto;
   max-width: 40vw;
   border-radius: 0.5em;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);  
 }
 .post-container-inner{
   padding-left: 1em;
