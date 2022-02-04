@@ -1,5 +1,4 @@
 .collaborate-body {
-   
   
    .youtube-video-container {
       position: relative;
@@ -42,11 +41,11 @@
    li.active {
          background-color: rgb(243, 248, 246) !important;
    }
+
    li div {
      padding: 0.5em;
    }
-   li:nth-child(odd) {
-   }
+
    li:nth-child(even) {
       background: rgb(240, 240, 240);
    }
@@ -64,14 +63,17 @@
     
     /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
     @media screen and (max-width: 640px) {
+      .youtube-video-container iframe {
+         max-width: 92%;
+      }
+
       .collaborate-question {
          font-size:1.5em
       }
+
       .collaborate-answer {
          font-size:1em
       }
     }
-    
    }
  
-

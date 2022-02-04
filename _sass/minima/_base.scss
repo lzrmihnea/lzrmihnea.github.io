@@ -69,9 +69,15 @@ ul, ol {
 }
 
 li {
+  border-radius: 0.5em;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);  
   > ul,
   > ol {
     margin-bottom: 0;
+  }
+  
+  &:hover {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 20px 0 rgba(0, 0, 0, 0.19);  
   }
 }
 
@@ -90,16 +96,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: seagreen;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken(seagreen, 15%);
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: green;
+    text-decoration: wavy;
   }
 }
 
