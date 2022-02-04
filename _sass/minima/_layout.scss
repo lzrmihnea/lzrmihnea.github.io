@@ -217,8 +217,10 @@ body {
 .post-container-outer img {
   margin-top: -1em;
   margin-left: 2em;
+  margin-right: 1em;
   height: 5em;
   width: auto;
+  border-radius: 0.5em;
 }
 
 .post-container-outer iframe {
@@ -226,6 +228,7 @@ body {
   height: 8em;
   width: auto;
   max-width: 40vw;
+  border-radius: 0.5em;
 }
 .post-container-inner{
   padding-left: 1em;
